@@ -1,0 +1,30 @@
+{
+  "name": "focus-helper",
+  "version": "1.0.0",
+  "description": "Helper for focus management within components",
+  "source": "src/index.js",
+  "main": "dist/index.js",
+  "module": "dist/module.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuarhdz/focus-helper.git"
+  },
+  "keywords": [
+    "focus helper",
+    "focus trap",
+    "a11y"
+  ],
+  "author": "Anuar Reyes <anuar@hey.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anuarhdz/focus-helper/issues"
+  },
+  "homepage": "https://github.com/anuarhdz/focus-helper#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
